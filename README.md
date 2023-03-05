@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Data Analyst And frontend developer from India</h3>
 (img align="right" alt="Coding" width="400" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif")
 
-
-
 - 🔭 I’m currently working on **𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
 
 - 🌱 I’m currently learning **Data Visualization In tableau**
