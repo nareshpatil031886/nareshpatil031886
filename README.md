@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narendra Patil</h1>
 <h3 align="center">Full Stack developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif")
 
 - 🔭 I’m currently working on **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
 - 
