@@ -2,9 +2,7 @@
 <h3 align="center">Full Stack developer from India</h3>
 
 - 🔭 I’m currently working on **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
-- 
 - 👯 I’m looking to collaborate on **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
-
 - 📫 How to reach me **narendra.rcpit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
