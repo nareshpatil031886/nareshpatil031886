@@ -21,7 +21,7 @@
 - 📄 Know about my experiences at [my Resume](https://www.linkedin.com/in/narendra-patil-0a8963230/details/featured/1726305662390/single-media-viewer/?profileId=ACoAADnOZsABximICBc_H_Bhu20Na__-iFNX4ys). -->
 
 ## About Me
-👋 Hi, I'm Narendra Patil, a Full-Stack MERN Developer based in Jashapar, a small village in Gujrat, India. I am passionate about building projects and learning new technologies.
+👋 Hi, I'm Narendra Patil, a Full-Stack MERN Developer based in Gotane, a small village in Dhule, Maharashtra, India. I am passionate about building projects and learning new technologies.
 
 📄 Know about my experiences at [my Resume](https://www.linkedin.com/in/narendra-patil-0a8963230/details/featured/1726305662390/single-media-viewer/?profileId=ACoAADnOZsABximICBc_H_Bhu20Na__-iFNX4ys).
 
