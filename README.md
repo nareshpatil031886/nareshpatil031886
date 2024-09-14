@@ -6,7 +6,8 @@
 
 <h3 align="center">Full-stack web developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=narendrapatil&label=Profile%20views&color=0e75b6&style=flat" alt="narendrapatil" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nareshpatil031886
+&label=Profile%20views&color=0e75b6&style=flat" alt="narendrapatil" /> </p>
 
 <br>
 
@@ -61,21 +62,21 @@
   
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=narendrapatil" alt="jitendra4545" />
+    <img src="https://github-profile-trophy.vercel.app/?username=nareshpatil031886" alt="narendrapatil" />
   </a>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=narendrapatil&show_icons=true&theme=light&border_radius=8" alt="stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nareshpatil031886&show_icons=true&theme=light&border_radius=8" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=narendrapatil&theme=default&border_radius=8&color=#43BEE5" alt="stats-2" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=narendrapatil&show_icons=true&locale=en&layout=compact"     alt="stats-3"
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=nareshpatil031886&show_icons=true&locale=en&layout=compact" alt="stats-3"
 </p>
 
 <h1 align='center'>Thanks for stopping by!</h1>
