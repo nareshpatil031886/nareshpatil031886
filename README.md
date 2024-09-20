@@ -1,4 +1,3 @@
-![MasterHead](https://i.postimg.cc/3NyPFfjd/github-header-image.png)
 
 <br>
 
