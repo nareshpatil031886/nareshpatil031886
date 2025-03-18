@@ -31,6 +31,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nareshpatil031886&show_icons=true&locale=en&layout=compact" alt="nareshpatil031886" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nareshpatil031886&show_icons=true&locale=en" alt="nareshpatil031886" /></p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nareshpatil031886" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nareshpatil031886)](https://git.io/streak-stats)
